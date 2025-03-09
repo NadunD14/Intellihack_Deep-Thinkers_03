@@ -1,0 +1,9 @@
+transformers
+peft
+datasets
+accelerate
+bitsandbytes
+auto-gptq
+huggingface_hub
+markdown-it-py
+pypdf
